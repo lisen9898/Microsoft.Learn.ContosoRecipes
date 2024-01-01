@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ContosoRecipesApi</name>
+    </assembly>
+    <members>
+        <member name="M:ContosoRecipesApi.Controllers.RecipesController.GetRecipeById(System.String)">
+            <summary>
+            Returns a recipe for a given id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
